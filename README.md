@@ -1,2 +1,2 @@
 # latihandoang
-isinya be;ajar up ke github, buat recall
+isinya belajar up ke github, buat recall
